@@ -16,6 +16,7 @@ int main()
     == --> used to compare two value
     a == b -->(if the value of a is equal to value of b then it return true other wise false) 
   */
+ //Logic to check the number is even or odd
   if(number % 2 == 0){
     printf("%d is an evecn number.",number);
   }else{
